@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
+title: icurious
+subtitle: 行万里路，读万卷书.
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="http://www.blankspace.cn">@icurious</a>
 
-url: "http://vno.onevcat.com"
+url: "http://www.blankspace.cn"
 
 permalink: /:year/:month/:title/
 
@@ -17,13 +17,15 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
-
+    title: 博客
+    description: 访问博客
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    #- {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
+    - {title: GitHub,     in_site: false,  description: icurious's GitHub,    url: 'https://github.com/icurious'}
+    - {title: 目录,        in_site: true,  description: 博客目录,               url: '/timeline'}
+    - {title: 关于,        in_site: true,  description: 关于作者 icurious,       url: '/info/about'}
 
 # Pagination
 gems: [jekyll-paginate]
@@ -37,11 +39,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: 
+    github: 
+    twitter: 
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: icurious2015@gmail.com
 
 # Google Analytics
 ga:
