@@ -2,7 +2,7 @@
 title: icurious
 subtitle: 行万里路，读万卷书.
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Hi, 你好，我是icurious，欢迎到我的小站来做客！来发现和分享生活中的小惊喜。
+description: Hi, 你好，我是icurious，欢迎到我的小站来做客！一起讨论和分享知识、观点和经验。
 creator: <a href="http://www.blankspace.cn">@icurious</a>
 
 url: "http://www.blankspace.cn"
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: plain
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: 
+cover_color: blue
 
 # The blog button should not be removed.
 blog_button:
@@ -24,6 +24,7 @@ nav:
     #- {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
     - {title: 目录,        in_site: true,  description: 博客目录,               url: '/timeline'}
+    - {title: CSDN,       in_site: false,  description: icurious's CSDN blog,    url: 'https://blog.csdn.net/icurious'}
     - {title: GitHub,     in_site: false,  description: icurious's GitHub,    url: 'https://github.com/icurious'}
     - {title: 关于,        in_site: true,  description: 关于作者 icurious,       url: '/info/about'}
 
