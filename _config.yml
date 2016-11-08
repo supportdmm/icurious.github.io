@@ -2,7 +2,7 @@
 title: icurious
 subtitle: 行万里路，读万卷书.
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+description: Hi, 你好，我是icurious，欢迎到我的小站来做客！来发现和分享生活中的小惊喜。
 creator: <a href="http://www.blankspace.cn">@icurious</a>
 
 url: "http://www.blankspace.cn"
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: plain
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: blue
 
 # The blog button should not be removed.
 blog_button:
@@ -23,8 +23,8 @@ blog_button:
 nav:
     #- {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
-    - {title: GitHub,     in_site: false,  description: icurious's GitHub,    url: 'https://github.com/icurious'}
     - {title: 目录,        in_site: true,  description: 博客目录,               url: '/timeline'}
+    - {title: GitHub,     in_site: false,  description: icurious's GitHub,    url: 'https://github.com/icurious'}
     - {title: 关于,        in_site: true,  description: 关于作者 icurious,       url: '/info/about'}
 
 # Pagination
@@ -34,18 +34,20 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: icurious
     # duoshuo: 
     
 # Social
 social:
-    weibo: 
-    github: 
-    twitter: 
-    gplus: 107108267983477358170
-    mail: icurious2015@gmail.com
+    weibo: icurious
+    github: icurious
+    twitter: icurious
+    gplus: 112373242775367333102
+    rss: /feed.xml
+    mail: nihaoworld@outlook.com
+    copyright: http://choosealicense.online
 
 # Google Analytics
 ga:
-    # id: your_ga_id
-    # host: your_host
+    id: UA-86995833-1
+    host: www.blankspace.cn
