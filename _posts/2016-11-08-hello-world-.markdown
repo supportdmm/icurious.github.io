@@ -4,7 +4,7 @@ title: Hello World
 date: 2016-11-08 15:55:24.000000000 +08:00
 ---
 
-##小站今天正式建立了
+## 小站今天正式建立了
 
 自己的小站总算上线了，本小魔法师❤里还是无比的激动的呀。说点什么好呢？
 
@@ -19,5 +19,5 @@ GitHub上查看到很多大魔法师提供的建筑图纸，于是我就按照�
 
 本站使用了**'Vno Jekyll'** 的主题，它的源代码可以在 [Vno Jekyll](https://github.com/onevcat/vno-jekyll) 上找到，它最初的版本来自于 [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
-感谢大魔法师**@onecat** [onecat] (https://github.com/onevcat) 和**@GcsSloop** [GcsSloop](https://github.com/GcsSloop) 在GitHub上无私地提供开源代码，让更多的人感受到魔法的奇妙，并用来更好地发掘生活中的乐趣，并感染他人。
+感谢大魔法师**@[onecat](https://github.com/onevcat)** 和**@[GcsSloop](https://github.com/GcsSloop)** 在GitHub上无私地提供开源代码，让更多的人感受到魔法的奇妙，并用来更好地发掘生活中的乐趣，并感染他人。
 
