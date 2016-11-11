@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://blankspace.cn/
   specs:
     colorator (1.1.0)
     ffi (1.9.14)
