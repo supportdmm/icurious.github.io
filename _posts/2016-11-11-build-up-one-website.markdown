@@ -3,10 +3,8 @@ layout: post
 category: Info
 title: 域名+解析+GitHub来搭建自己的个人网站
 date: 2016-11-11 19:36:00.000000000 +08:00
-tags: icurious, post
+tags: GitHub使用技巧 , 网站搭建
 ---
-
-标签（空格分隔）： GitHub使用技巧 网站搭建
 
 ---
 
