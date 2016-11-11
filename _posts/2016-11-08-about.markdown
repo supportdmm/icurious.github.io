@@ -7,7 +7,7 @@ tags: icurious, info
 keywords: icurious, icurious
 excerpt: Hi,你好,我是icurious,一名小小的见习魔法师,目前还在魔法学校学习,致力于基础魔法的研究和应用,努力成为一名优秀的魔法师。
 redirect_from:
-  - /2016/11/about/
+  - /info/about/
 ---
 
 ******
@@ -28,7 +28,7 @@ redirect_from:
 <strong>
 | [微博](http://weibo.com/icurious)
 | [GitHub](https://github.com/icurious)
-| [简书](http://www.jianshu.com/users/6b3b370657dd/timeline)
+| [简书](http://www.jianshu.com/users/6b3b370657dd)
 | [知乎](https://https://www.zhihu.com/people/geek-xiao-dian-di-49)
 | [CSDN](http://blog.csdn.net/icurious)
 | 
