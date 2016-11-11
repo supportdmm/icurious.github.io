@@ -24,8 +24,8 @@ nav:
     #- {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
     - {title: 目录,        in_site: true,  description: 博客目录,               url: '/timeline'}
-    - {title: CSDN,       in_site: false,  description: icurious's CSDN blog,    url: 'http://blog.csdn.net/icurious'}
-    - {title: GitHub,     in_site: false,  description: icurious's GitHub,    url: 'https://github.com/icurious'}
+   # - {title: CSDN,       in_site: false,  description: icurious's CSDN blog,    url: 'http://blog.csdn.net/icurious'}
+   # - {title: GitHub,     in_site: false,  description: icurious's GitHub,    url: 'https://github.com/icurious'}
     - {title: 大魔法师们,   in_site: true,  description: 大魔法师们,   url: '/friends'}
     - {title: 关于,        in_site: true,  description: 关于作者 icurious,       url: '/info/about'}
 
@@ -44,7 +44,7 @@ social:
     weibo: icurious
     github: icurious
   # twitter: 
-  # zhihu:
+    csdn:icurious
     gplus: 112373242775367333102
     rss: /feed.xml
     mail: nihaoworld@outlook.com
