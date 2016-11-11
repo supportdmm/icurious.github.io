@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: plain
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: blue
+cover_color:blue
 
 # The blog button should not be removed.
 blog_button:
@@ -27,7 +27,7 @@ nav:
     - {title: CSDN,       in_site: false,  description: icurious's CSDN blog,    url: 'http://blog.csdn.net/icurious'}
     - {title: GitHub,     in_site: false,  description: icurious's GitHub,    url: 'https://github.com/icurious'}
     - {title: 大魔法师,   in_site: true,  description: 大魔法师们,   url: '/friends'}
-    - {title: 关于,        in_site: true,  description: 关于作者 icurious,       url: '/info/about'}
+    - {title: 关于,        in_site: true,  description: 关于作者 icurious,       url: '/about'}
 
 # Pagination
 gems: [jekyll-paginate]
