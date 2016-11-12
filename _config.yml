@@ -1,5 +1,5 @@
 # Basic
-title: icurious
+title: iCurious
 subtitle: 行万里路，读万卷书.
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">欢迎到我的小站来做客！</a>
 description: Hi,你好,我是icurious,一名小小的见习魔法师,目前还在魔法学校学习,致力于基础魔法的研究和应用,努力成为一名优秀的魔法师。
@@ -24,10 +24,10 @@ nav:
     #- {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
     - {title: 目录,        in_site: true,  description: 博客目录,                 url: '/timeline'}
-    - {title: CSDN,       in_site: false,  description: icurious's CSDN blog,   url: 'http://blog.csdn.net/icurious'}
+    - {title: CSDN,       in_site: false,  description: iCurious's CSDN blog,   url: 'http://blog.csdn.net/icurious'}
     #- {title: GitHub,     in_site: false,  description: icurious's GitHub,      url: 'https://github.com/icurious'}
     - {title: 大魔法师,   in_site: true,  description: 大魔法师,                  url: '/friends'}
-    - {title: 关于,        in_site: true,  description: 关于作者 icurious,        url: '/about'}
+    - {title: 关于,        in_site: true,  description: 关于作者 iCurious,        url: '/about'}
 
 # Pagination
 gems: [jekyll-paginate]
