@@ -61,13 +61,13 @@ int main()
 ```
 
 ##效果
-![picture]
-(http://img.blog.csdn.net/20161112211120389) 
 
+![picture](http://img.blog.csdn.net/20161112211120389) 
 
 
 通过本文我们学会了**imread**函数打开图片。
 其更详细的说明如下：
+
 ```
 CV_EXPORTS_W Mat imread( const String& filename, int flags = IMREAD_COLOR );
 
@@ -80,6 +80,7 @@ CV_EXPORTS_W Mat imread( const String& filename, int flags = IMREAD_COLOR );
 ```
 
 flag指读取图像的颜色，并在imgcodecs.hpp头文件中由如下枚举类型定义和解释：
+
 ```
 //! Imread flags
 enum ImreadModes {
