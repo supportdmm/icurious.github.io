@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Info
-title: [OpenCV自学笔记]Day1 如何打开一张图像
+title: 【OpenCV自学笔记】Day1 如何打开一张图像
 date: 2016-11-15 18:00:00.000000000 +08:00
 tags: icurious, post
 ---
