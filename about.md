@@ -4,8 +4,8 @@ layout: post
 category: Info
 date: 2016-11-08 00:00:00.000000000 +08:00
 tags: icurious, info
-keywords: icurious,icurious
-excerpt: Hi,你好,我是icurious,一名小小的见习魔法师,目前还在魔法学校学习,致力于基础魔法的研究和应用,努力成为一名优秀的魔法师。
+keywords: wonder,wonder
+excerpt: Hi,你好,我是Wonder,一名小小的元素法师,目前还在王者荣耀魔法学院学习,致力于基础魔法的研究和应用,努力成为一名优秀的魔导士。
 ---
 
 ******
@@ -17,17 +17,16 @@ excerpt: Hi,你好,我是icurious,一名小小的见习魔法师,目前还在魔
 你可以通过以下几种方式联系到我。
 
 * [微博私信](http://weibo.com/icurious)
-* [发邮件](mailto:nihaoworld@outlook.com)
+* [发邮件](angledmm@126.com)
 * 发评论
 
 ### 我活动的平台(有些不常用)
 
 <strong>
-| [微博](http://weibo.com/icurious)
-| [GitHub](https://github.com/icurious)
-| [简书](http://www.jianshu.com/users/6b3b370657dd)
-| [知乎](https://https://www.zhihu.com/people/geek-xiao-dian-di-49)
-| [CSDN](http://blog.csdn.net/icurious)
+| [微博](http://weibo.com/p/1005053505888314)
+| [GitHub](https://github.com/supportdmm)
+| [知乎](https://www.zhihu.com/people/wonder-22)
+| [CSDN](http://blog.csdn.net/supportdream)
 | 
 </strong>
 
