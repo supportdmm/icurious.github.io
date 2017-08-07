@@ -3,7 +3,7 @@ title: 关于
 layout: post
 category: Info
 date: 2016-11-08 00:00:00.000000000 +08:00
-tags: icurious, info
+tags: wonder, info
 keywords: wonder,wonder
 excerpt: Hi,你好,我是Wonder,一名小小的元素法师,目前还在王者荣耀魔法学院学习,致力于基础魔法的研究和应用,努力成为一名优秀的魔导士。
 ---
